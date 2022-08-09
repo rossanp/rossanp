@@ -1,4 +1,4 @@
-<h1 align="center">Olá , eu me chamo Rossan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá , me chamo Rossan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">Sou um desenvolvedor novato em busca de aprendizado constante. Busco foco em front-end e recolocação profissional. Tenho conhecimento em HTML, CSS e Javascript. Recentimente iniciei meus estudos em React JS e tenho uma leve curiosidade sobre o universo de desenvolvimento de games.</h4>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rossanp&label=Visualizações%20do%20Perfil%20de%20Rossan%20&color=dc143c&style=plastic" alt="rossanp" /> </p> -->

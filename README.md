@@ -70,7 +70,7 @@
 
 <br/>
 
-## 🙋‍♀️ Adicione-me nas redes
+## 🙋‍♂️ Adicione-me nas redes
 <p align="center">
 	<a href="https://github.com/rossanp" alt="GitHub Rossan Pereira">
 		<img alt="HTML" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white">
